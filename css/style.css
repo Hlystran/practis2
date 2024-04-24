@@ -197,10 +197,10 @@ main section.brand div article p {
 }
 
 main section.new-tovar {
-    display: grid;padding: 80px;
+    display: grid;
+    padding: 80px;
     display: grid;
     row-gap: 36px;
-
 }
 
 main section.new-tovar div {
