@@ -200,7 +200,7 @@ main section.new-tovar {
     display: grid;
     padding: 80px;
     display: grid;
-    row-gap: 36px;
+    row-gap: 50px;
 }
 
 main section.new-tovar div {
